@@ -1,0 +1,181 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    margin-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    align-items: center;
+
+}
+
+.search {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    border-radius: 30px;
+    width: 100px;
+    height: 10px;
+    background-color: rgb(208, 214, 214);
+}
+
+.centernav {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    border-radius: 30px;
+    width: 900px;
+    text-align: center;
+    height: 25px;
+    padding-top: 10px;
+
+}
+
+.centernav :hover {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    border-radius: 30px;
+    width: 900px;
+    text-align: center;
+    height: 25px;
+
+
+}
+
+.list1 {
+    padding-left: 100px;
+    display: flex;
+
+}
+
+.list1 ul {
+    list-style-type: none;
+    display: flex;
+
+}
+
+.list1 ul li {
+    padding-left: 50px;
+
+}
+
+.list2 {
+    margin-top: 30px;
+    display: flex;
+}
+
+.list2 ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.list2 ul li {
+    padding-left: 200px;
+
+
+
+
+}
+
+
+
+.image2 {
+    width: 100%;
+    height: 400px;
+    padding-top: 40px;
+    background-image: url("2ndpic.avif");
+    background-repeat: none;
+    background-size: cover;
+
+
+}
+
+.discription {
+    padding-left: 20px;
+}
+
+.seller_image {
+
+
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 500px;
+}
+
+.seller_image_sub {
+    display: flex;
+    width: 100%;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 33.33%;
+
+
+}
+
+.cardtext {
+    font-display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+}
+
+.b2head {
+    margin-left: 50px;
+}
+
+.middleimg {
+    background-image: url("2ndlogo.jpg");
+    height: 350px;
+    width: 98%;
+    padding-left: 30px;
+    padding-top: 150px;
+
+}
+
+.macfooter {
+    width: 100%;
+    height: 55%;
+    background-color: black;
+    color: #ffffff;
+    display: flex;
+
+}
+
+.macfooter ul {
+    list-style-type: none;
+}
+
+.footerlist1 {
+    padding: 50px;
+}
+
+.footerlist2 {
+    padding: 50px;
+}
+
+.footerlist3 {
+    padding: 50px;
+}
+
+.footeraccounts {
+    padding: 50px;
+
+}
+
